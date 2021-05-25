@@ -14,9 +14,21 @@ OOP, Geolocation, External libraries, Project planning
 
 ## Features
 
-\*From the course
+- Interactive Map
+  - Add new workouts
+  - Indicate current location (Geolocation)
+  - Display all workouts on the map
+- User Form
+  - Input distance, time, (pace, steps/minute), (speed, elevation gain)
+- Workout List
+  - Display all workouts in the list
+- Workout data in the browser (Local storage API)
+  - Store workout data
+  - Read the saved data from local storage and display on page load
 
-\*New Features I implemented (as challenges)
+\* FIXME-highlight: original features from the course
+
+\* FIXME-highlight: NEW features I implemented (as challenges)
 
 ## Project Tracking (TDL)
 
@@ -24,7 +36,7 @@ OOP, Geolocation, External libraries, Project planning
 
 - [x] Project set-up
 - [ ] Project planning
-  - [ ] User Stories
+  - [x] User Stories
   - [ ] Features
   - [ ] Flowchart
   - [ ] Architecture
