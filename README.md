@@ -18,24 +18,25 @@ OOP, Geolocation, External libraries, Project planning
 
 ### Interactive Map
 
-- Add new workouts
 - Indicate current location (Geolocation)
+- Add new workouts
 - Display all workouts on the map
 
 ### User Form
 
 - Input distance, time, (pace, steps/minute), (speed, elevation gain)
 
-### Workout List
+### Interactive Workout List
 
 - Display all workouts in the list
+- Move map to workout location on click
 
 ### Workout data in the browser (Local storage API)
 
 - Store workout data
 - Read the saved data from local storage and display on page load
 
-###### \* FIXME-highlight: original features from the course; FIXME-highlight: NEW features I implemented (as challenges)
+###### FIXME-highlight: NEW features I implemented (as challenges); \* FIXME-highlight: original features from the course;
 
 <p>&nbsp;</p>
 
@@ -46,7 +47,7 @@ OOP, Geolocation, External libraries, Project planning
 - [x] Project set-up
 - [ ] Project planning
   - [x] User Stories
-  - [ ] Features
+  - [x] Features
   - [ ] Flowchart
   - [ ] Architecture
 - [ ] Use Geolocation API
@@ -83,5 +84,7 @@ OOP, Geolocation, External libraries, Project planning
 <!-- prettier-ignore-end -->
 
 ### Flowchart
+
+![Mapty flowchart](./Mapty-flowchart.png 'Mapty flowchart')
 
 ### Architecture
