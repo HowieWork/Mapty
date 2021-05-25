@@ -48,9 +48,9 @@ OOP, Geolocation, External libraries, Project planning
 - [ ] Project planning
   - [x] User Stories
   - [x] Features
-  - [ ] Flowchart
+  - [x] Flowchart
   - [ ] Architecture
-- [ ] Use Geolocation API
+- [x] Use Geolocation API
 - [ ] Display a map using Leaflet Library
 - [ ] Display a map marker
 - [ ] Render workout input form
