@@ -14,17 +14,24 @@ OOP, Geolocation, External libraries, Project planning
 
 ## Features
 
-- Interactive Map
-  - Add new workouts
-  - Indicate current location (Geolocation)
-  - Display all workouts on the map
-- User Form
-  - Input distance, time, (pace, steps/minute), (speed, elevation gain)
-- Workout List
-  - Display all workouts in the list
-- Workout data in the browser (Local storage API)
-  - Store workout data
-  - Read the saved data from local storage and display on page load
+### Interactive Map
+
+- Add new workouts
+- Indicate current location (Geolocation)
+- Display all workouts on the map
+
+### User Form
+
+- Input distance, time, (pace, steps/minute), (speed, elevation gain)
+
+### Workout List
+
+- Display all workouts in the list
+
+### Workout data in the browser (Local storage API)
+
+- Store workout data
+- Read the saved data from local storage and display on page load
 
 \* FIXME-highlight: original features from the course
 
