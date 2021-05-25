@@ -27,6 +27,7 @@ OOP, Geolocation, External libraries, Project planning
   - [ ] User Stories
   - [ ] Features
   - [ ] Flowchart
+  - [ ] Architecture
 - [ ] Use Geolocation API
 - [ ] Display a map using Leaflet Library
 - [ ] Display a map marker
@@ -43,3 +44,19 @@ OOP, Geolocation, External libraries, Project planning
 ### Stage II
 
 - [ ] TBD
+
+## Details
+
+### User Stories
+
+### Flowchart
+
+### Architecture
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
