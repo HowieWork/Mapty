@@ -51,7 +51,7 @@ OOP, Geolocation, External libraries, Project planning
   - [x] Flowchart
   - [ ] Architecture
 - [x] Use Geolocation API
-- [ ] Display a map using Leaflet Library
+- [x] Display a map using Leaflet Library
 - [ ] Display a map marker
 - [ ] Render workout input form
 - [ ] Project architecture
@@ -86,5 +86,41 @@ OOP, Geolocation, External libraries, Project planning
 ### Flowchart
 
 ![Mapty flowchart](./Mapty-flowchart.svg 'Mapty flowchart')
+
+```mermaid
+graph TD
+    Event1([Page loads])
+    Event2([User clicks on map])
+    Event3([User submits new workout])
+    Event4([User clicks on workout in list])
+    Render1[Render map on current location]
+    Render2[Render workout on map]
+    Render3[Render workout in list]
+    Render4[Render workout form]
+    Render5[Move map to workout location]
+    Operation1(Get current location coordinates)
+    Operation2(Load workouts from local storage)
+    Operation3(Store workouts in local storage)
+
+    Event1 -->|Async| Operation1
+    Event1 --> Operation2
+
+    Operation1 --> Render1
+    Operation1 --> |After map loaded| Render2
+
+    Operation2 --> |After map loaded| Render2
+    Operation2 --> Render3
+
+    Render1 -.Bind handler.-> Event2
+    Event2 --> Render4
+    Render4 -.Bind handler.-> Event3
+
+    Event3 --> Render2
+    Event3 --> Render3
+    Event3 --> Operation3
+
+    Render3 -.Bind handler.-> Event4
+    Event4 --> Render5
+```
 
 ### Architecture
