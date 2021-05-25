@@ -1,18 +1,18 @@
 # MAPTY
 
-\*Mapty is one project I learned from [Jonas Schmedtmann](https://www.udemy.com/course/the-complete-javascript-course/?referralCode=87FE8B1039A68106DEE5).
+###### \*Mapty is one project I learned from [Jonas Schmedtmann](https://www.udemy.com/course/the-complete-javascript-course/?referralCode=87FE8B1039A68106DEE5).
 
-## What is Mapty?
+## BRIEF
 
 An app map your workouts
 
 [DEMO](https://howiework.github.io/Mapty/)
 
-## Key technologies
+## KEYWORDS
 
 OOP, Geolocation, External libraries, Project planning
 
-## Features
+## FEATURES
 
 ### Interactive Map
 
@@ -33,11 +33,11 @@ OOP, Geolocation, External libraries, Project planning
 - Store workout data
 - Read the saved data from local storage and display on page load
 
-\* FIXME-highlight: original features from the course
+###### \* FIXME-highlight: original features from the course
 
-\* FIXME-highlight: NEW features I implemented (as challenges)
+###### \* FIXME-highlight: NEW features I implemented (as challenges)
 
-## Project Tracking (TDL)
+## TRACKING (TDL)
 
 ### Stage I
 
@@ -64,7 +64,7 @@ OOP, Geolocation, External libraries, Project planning
 
 - [ ] TBD
 
-## Details
+## DETAILS
 
 ### User Stories
 
