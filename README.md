@@ -4,9 +4,7 @@
 
 ## BRIEF
 
-An app maps your workouts
-
-[**DEMO**](https://howiework.github.io/Mapty/)
+An app maps your workouts | [**DEMO**](https://howiework.github.io/Mapty/)
 
 <p>&nbsp;</p>
 
