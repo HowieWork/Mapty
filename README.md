@@ -49,14 +49,16 @@ OOP, Geolocation, External libraries, Project planning
 
 ### User Stories
 
+<!-- prettier-ignore-start -->
+| WHO | WHAT | WHY |
+| --- | ---- | --- |
+| User 1 | Log running workouts with location, distance, time, pace and steps/minut | Keep a log of all my running |
+| User 2 | Log cycling workouts with location, distance, time, speed and elevation gain | Keep a log of all my cycling |
+| User 3 | See all my workouts at a glance | Easily track my progress over time |
+| User 4 | See my workouts on a map | Check where I work out the most |
+| User 5 | See all my workouts when I leave the app and come back later | Keep using the app over time |
+<!-- prettier-ignore-end -->
+
 ### Flowchart
 
 ### Architecture
-
-```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-```
