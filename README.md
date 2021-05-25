@@ -85,6 +85,6 @@ OOP, Geolocation, External libraries, Project planning
 
 ### Flowchart
 
-![Mapty flowchart](./Mapty-flowchart.png 'Mapty flowchart')
+![Mapty flowchart](./Mapty-flowchart-svg.svg 'Mapty flowchart')
 
 ### Architecture
