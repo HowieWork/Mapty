@@ -35,9 +35,7 @@ OOP, Geolocation, External libraries, Project planning
 - Store workout data
 - Read the saved data from local storage and display on page load
 
-###### \* FIXME-highlight: original features from the course
-
-###### \* FIXME-highlight: NEW features I implemented (as challenges)
+###### \* FIXME-highlight: original features from the course; FIXME-highlight: NEW features I implemented (as challenges)
 
 <p>&nbsp;</p>
 
