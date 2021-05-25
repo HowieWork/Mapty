@@ -20,10 +20,13 @@ OOP, Geolocation, External libraries, Project planning
 
 ## Project Tracking (TDL)
 
-Stage I
+### Stage I
 
 - [x] Project set-up
 - [ ] Project planning
+  - [ ] User Stories
+  - [ ] Features
+  - [ ] Flowchart
 - [ ] Use Geolocation API
 - [ ] Display a map using Leaflet Library
 - [ ] Display a map marker
@@ -37,6 +40,6 @@ Stage I
 - [ ] Work with localStorage
 - [ ] Stage II preparation
 
-Stage II
+### Stage II
 
 - [ ] TBD
