@@ -6,6 +6,8 @@
 
 An app map your workouts
 
+[DEMO](https://howiework.github.io/Mapty/)
+
 ## Key technologies
 
 OOP, Geolocation, External libraries, Project planning
