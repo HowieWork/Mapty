@@ -4,13 +4,17 @@
 
 ## BRIEF
 
-An app map your workouts
+An app maps your workouts
 
-[DEMO](https://howiework.github.io/Mapty/)
+[**DEMO**](https://howiework.github.io/Mapty/)
+
+<p>&nbsp;</p>
 
 ## KEYWORDS
 
 OOP, Geolocation, External libraries, Project planning
+
+<p>&nbsp;</p>
 
 ## FEATURES
 
@@ -36,6 +40,8 @@ OOP, Geolocation, External libraries, Project planning
 ###### \* FIXME-highlight: original features from the course
 
 ###### \* FIXME-highlight: NEW features I implemented (as challenges)
+
+<p>&nbsp;</p>
 
 ## TRACKING (TDL)
 
@@ -63,6 +69,8 @@ OOP, Geolocation, External libraries, Project planning
 ### Stage II
 
 - [ ] TBD
+
+<p>&nbsp;</p>
 
 ## DETAILS
 
