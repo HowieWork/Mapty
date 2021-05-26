@@ -52,7 +52,7 @@ OOP, Geolocation, External libraries, Project planning
   - [ ] Architecture
 - [x] Use Geolocation API
 - [x] Display a map using Leaflet Library
-- [ ] Display a map marker
+- [x] Display a map marker
 - [ ] Render workout input form
 - [ ] Project architecture
 - [ ] Refactor based on architecture
