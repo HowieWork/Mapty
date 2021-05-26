@@ -54,7 +54,7 @@ OOP, Geolocation, External libraries, Project planning
 - [x] Display a map using Leaflet Library
 - [x] Display a map marker
 - [x] Render workout input form
-- [ ] Project architecture
+- [x] Project architecture
 - [ ] Refactor based on architecture
 - [ ] Manage workout data (create Classes)
 - [ ] Create a new workout
