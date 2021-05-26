@@ -56,8 +56,8 @@ OOP, Geolocation, External libraries, Project planning
 - [x] Render workout input form
 - [x] Project architecture
 - [x] Refactor based on architecture
-- [ ] Manage workout data (create Classes)
-- [ ] Create a new workout
+- [x] Manage workout data (create Classes)
+- [x] Create a new workout
 - [ ] Render workouts
 - [ ] Move to marker on click
 - [ ] Work with localStorage
