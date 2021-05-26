@@ -53,7 +53,7 @@ OOP, Geolocation, External libraries, Project planning
 - [x] Use Geolocation API
 - [x] Display a map using Leaflet Library
 - [x] Display a map marker
-- [ ] Render workout input form
+- [x] Render workout input form
 - [ ] Project architecture
 - [ ] Refactor based on architecture
 - [ ] Manage workout data (create Classes)
@@ -124,3 +124,39 @@ graph TD
 ```
 
 ### Architecture
+
+![Mapty architecture 1](./Mapty-architecture-1.svg 'Mapty architecture 1')
+
+```mermaid
+classDiagram
+    Workout <|-- Running
+    Workout <|-- Cycling
+    Workout : id
+    Workout : date
+    Workout : coords
+    Workout : distance
+    Workout : duration
+    Workout: constructor()
+    class Running{
+      pace
+      name
+      cadence
+      constructor()
+    }
+    class Cycling{
+      speed
+      name
+      elevationGain
+      constructor()
+    }
+    class App{
+      workouts
+      map
+      constructor()
+      _getPosition()
+      _loadMap(position)
+      _showForm()
+      _toggleElevationField()
+      _newWorkout()
+    }
+```
