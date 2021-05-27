@@ -49,7 +49,7 @@ OOP, Project planning, Geolocation API, Web Storage API, External libraries
   - [x] User Stories
   - [x] Features
   - [x] Flowchart
-  - [ ] Architecture
+  - [x] Architecture
 - [x] Use Geolocation API
 - [x] Display a map using Leaflet Library
 - [x] Display a map marker
