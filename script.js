@@ -28,11 +28,11 @@ class Running extends Workout {
   constructor(distance, duration, coords, cadence) {
     super(distance, duration, coords);
     this.cadence = cadence;
-    this.calcPace();
+    this._calcPace();
     this._getDescription();
   }
 
-  calcPace() {
+  _calcPace() {
     // min/km
     this.pace = this.duration / this.distance;
   }
@@ -44,11 +44,11 @@ class Cycling extends Workout {
   constructor(distance, duration, coords, elevationGain) {
     super(distance, duration, coords);
     this.elevationGain = elevationGain;
-    this.calcSpeed();
+    this._calcSpeed();
     this._getDescription();
   }
 
-  calcSpeed() {
+  _calcSpeed() {
     // km/h
     this.speed = this.distance / (this.duration / 60);
   }
@@ -273,8 +273,7 @@ class App {
     });
 
     // Public API
-    workout.click();
-    console.log(workout);
+    // workout.click();
   }
 
   _setLocalStorage() {
@@ -283,7 +282,6 @@ class App {
 
   _getLocalStorage() {
     const localStorageData = JSON.parse(localStorage.getItem('workouts'));
-    console.log(localStorageData);
 
     if (!localStorageData) return;
 

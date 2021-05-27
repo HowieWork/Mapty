@@ -125,7 +125,7 @@ graph TD
 
 ### Architecture
 
-![Mapty architecture 1](./Mapty-architecture-1.svg 'Mapty architecture 1')
+![Mapty architecture](./Mapty-architecture.svg 'Mapty architecture')
 
 ```mermaid
 classDiagram
@@ -137,26 +137,38 @@ classDiagram
     Workout : distance
     Workout : duration
     Workout: constructor()
+    Workout: _getDescription()
     class Running{
-      pace
       name
+      pace
       cadence
       constructor()
+      _calcPace()
     }
     class Cycling{
-      speed
       name
+      speed
       elevationGain
       constructor()
+      _calcSpeed()
     }
     class App{
-      workouts
       map
+      zoomLevel
+      mapEvent
+      workouts
       constructor()
       _getPosition()
       _loadMap(position)
       _showForm()
+      _hideForm()
       _toggleElevationField()
       _newWorkout()
+      _renderWorkoutMarker()
+      _renderWorkout()
+      _moveToPopup()
+      _setLocalStorage()
+      _getLocalStorage()
+      reset()
     }
 ```
