@@ -60,7 +60,7 @@ OOP, Project planning, Geolocation API, Web Storage API, External libraries
 - [x] Create a new workout
 - [x] Render workouts
 - [x] Move to marker on click
-- [ ] Work with localStorage
+- [x] Work with localStorage
 - [ ] Stage II preparation
 
 ### Stage II
