@@ -58,8 +58,8 @@ OOP, Geolocation, External libraries, Project planning
 - [x] Refactor based on architecture
 - [x] Manage workout data (create Classes)
 - [x] Create a new workout
-- [ ] Render workouts
-- [ ] Move to marker on click
+- [x] Render workouts
+- [x] Move to marker on click
 - [ ] Work with localStorage
 - [ ] Stage II preparation
 
