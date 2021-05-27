@@ -10,7 +10,7 @@ An app maps your workouts | [**DEMO**](https://howiework.github.io/Mapty/)
 
 ## KEYWORDS
 
-OOP, Geolocation, External libraries, Project planning
+OOP, Project planning, Geolocation API, Web Storage API, External libraries
 
 <p>&nbsp;</p>
 
