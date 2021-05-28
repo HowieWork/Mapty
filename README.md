@@ -65,7 +65,16 @@ OOP, Project planning, Geolocation API, Web Storage API, External libraries
 
 ### Stage II
 
-- [ ] TBD
+- [ ] Add 'Edit/Delete' to a workout;
+- [ ] Add 'Delete All' to all workouts;
+- [ ] Workouts can be sorted by a certain field;
+- [ ] Re-build Running and Cycling objects from local storage;
+- [ ] Add realistic error and confirmation messages;
+- [ ] Ability to position the map to show add workouts;
+- [ ] Ability to draw lines and shapes instead of just points;
+<!-- Only after Async Js section -->
+- [ ] Geocode location from coordinates (expl. 'Run in Faro, Portugal);
+- [ ] Display weather data for workout time and place;
 
 <p>&nbsp;</p>
 
