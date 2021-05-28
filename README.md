@@ -45,7 +45,7 @@ OOP, Project planning, Geolocation API, Web Storage API, External libraries
 ### Stage I
 
 - [x] Project set-up
-- [ ] Project planning
+- [x] Project planning
   - [x] User Stories
   - [x] Features
   - [x] Flowchart
@@ -61,7 +61,7 @@ OOP, Project planning, Geolocation API, Web Storage API, External libraries
 - [x] Render workouts
 - [x] Move to marker on click
 - [x] Work with localStorage
-- [ ] Stage II preparation
+- [x] Stage II preparation
 
 ### Stage II
 
