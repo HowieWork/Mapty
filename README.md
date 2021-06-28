@@ -1,6 +1,6 @@
 # MAPTY
 
-###### \*Mapty is one project I learned from [Jonas Schmedtmann](https://www.udemy.com/course/the-complete-javascript-course/?referralCode=87FE8B1039A68106DEE5).
+###### \*Mapty is one project I learned from [Jonas Schmedtmann](https://www.udemy.com/share/101WfeAEYbdllRRHQH/).
 
 ## BRIEF
 
