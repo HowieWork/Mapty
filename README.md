@@ -14,7 +14,7 @@ OOP, Project planning, Geolocation API, Web Storage API, External libraries
 
 <p>&nbsp;</p>
 
-## FEATURES
+## FEATURES FIXME
 
 ### Interactive Map
 
